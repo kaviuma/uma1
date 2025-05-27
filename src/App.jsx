@@ -103,7 +103,7 @@ return (
  */}
 
 
- <i class="bi bi-amazon">daralkjhrertyuiogh</i>
+
       
     </div>
   )
